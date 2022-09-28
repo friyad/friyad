@@ -68,6 +68,22 @@ I like to build the website error-free for the best user experience. I am passio
 <br/>
 
 
+<table border="0px" align="center">
+ <tr>
+  <td>
+<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='auto'>
+  </td>
+  <td>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='auto'>
+  </td>  
+ </tr>
+</table>
+
+
+
+<br/><br/>
+
+
 <table border="0" align="center" width="100%">
  <tr>
   
@@ -91,22 +107,6 @@ I like to build the website error-free for the best user experience. I am passio
    
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='120' height='120'></a> 
    <br/>
-  </td>  
- </tr>
-</table>
-
-
-
-
-<br/><br/>
-
-<table border="0px" align="center">
- <tr>
-  <td>
-<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='auto'>
-  </td>
-  <td>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='auto'>
   </td>  
  </tr>
 </table>
