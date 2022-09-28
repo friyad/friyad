@@ -28,7 +28,7 @@ I like to build the website error-free for the best user experience. I am passio
        ✅ Node Express<br/>
        ✅ Strapi <br/>
        ✅ MongoDB<br/>
-  <td>
+  </td>
   <td>
        ☑ Figma<br/>
        ☑ Adobe XD<br/>
@@ -36,7 +36,7 @@ I like to build the website error-free for the best user experience. I am passio
        ☑ Adboe Illustrator<br/>
        ☑ Canva<br/>
        ☑ Sketch<br/>
-  <td>  
+  </td>  
  </tr>
 </table>
 
