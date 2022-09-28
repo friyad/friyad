@@ -9,10 +9,6 @@ I like to build the website error-free for the best user experience. I am passio
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
     <td>
 ✅ React.js<br/>
 ✅ JavaScript<br/>
