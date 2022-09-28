@@ -4,14 +4,14 @@ I have been working as a 🔥MERN stack developer for the previous 2 years speci
 
 I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems. My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
 
-❤ Typescript lover<br/>
 <p align="center">
+❤ Typescript lover<br/>
 ✌ Let's invent a new thought!
- </p>
+</p>
 
 
 ### Skills:
-<table border="0">
+<table border="0" align="center">
  <tr>
     <td>
      <br/>
