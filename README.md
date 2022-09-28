@@ -79,7 +79,7 @@ I like to build the website error-free for the best user experience. I am passio
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg' width='100%' height='auto'>
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 
 <table border="0px" align="center">
  <tr>
@@ -91,6 +91,3 @@ I like to build the website error-free for the best user experience. I am passio
   </td>  
  </tr>
 </table>
-
-<br/>
-<img src='https://i.ibb.co/y5bGmh8/terminal.gif' width='100%' height='400px'>
