@@ -7,40 +7,38 @@ I like to build the website error-free for the best user experience. I am passio
 ❤ Typescript lover<br/>
 ✌ Let's invent a new thought!
 
+
+### Skills:
 <table border="0">
  <tr>
     <td>
-✅ React.js<br/>
-✅ JavaScript<br/>
-✅ TypeScript<br/>
-✅ Firebase<br/>
-✅ Redux<br/>
-✅ HTML5 \ CSS3 \ SCSS<br/>
-✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/></td>
-    <td>
-**Backend:**<br/>
-✅ Node.js<br/>
-✅ Node Express<br/>
-✅ Strapi <br/></td>
+        ✅ React.js<br/>
+        ✅ JavaScript<br/>
+        ✅ TypeScript<br/>
+        ✅ Firebase<br/>
+        ✅ Redux<br/>
+        ✅ HTML5 \ CSS3 \ SCSS<br/>
+        ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
+  </td>
+  <td>
+       ✅ Node.js<br/>
+       ✅ Node Express<br/>
+       ✅ Strapi <br/>
+       ✅ Node.js<br/>
+       ✅ Node Express<br/>
+       ✅ Strapi <br/>
+       ✅ MongoDB<br/>
+  <td>
+  <td>
+       ☑ Figma<br/>
+       ☑ Adobe XD<br/>
+       ☑ Adboe Photoshop<br/>
+       ☑ Adboe Illustrator<br/>
+       ☑ Canva<br/>
+       ☑ Sketch<br/>
+  <td>  
  </tr>
 </table>
-
-
-### Skills:
-
-
-
-
-**Database:**<br/>
-✅ MongoDB<br/>
-
-**Designing:**<br/>
-☑ Figma<br/>
-☑ Adobe XD<br/>
-☑ Adboe Photoshop<br/>
-☑ Adboe Illustrator<br/>
-☑ Canva<br/>
-☑ Sketch<br/>
 
 
 <br/>
