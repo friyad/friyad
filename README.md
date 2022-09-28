@@ -73,6 +73,21 @@ I like to build the website error-free for the best user experience. I am passio
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=friyad)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+<table border="0" align="center">
+ <tr>
+  <td>
+<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='120'>
+  </td>
+  <td>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='120'>
+  </td>  
+ </tr>
+</table>
+
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friyad)  
