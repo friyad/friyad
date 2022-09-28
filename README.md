@@ -7,7 +7,6 @@ I like to build the website error-free for the best user experience. I am passio
 ❤ Typescript lover<br/>
 ✌Let's invent a new thought!
 
-<br/>
 
 ### Skills:
 ✅ React.js<br/>
