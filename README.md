@@ -1,5 +1,3 @@
-### Hi there 👋, Riyad Hossain
-#### Experienced frontend developer
 ![Experienced frontend developer](https://pbs.twimg.com/profile_banners/1568602333617213441/1663051811/1500x500)
 
 I have been working as a 🔥MERN stack developer for the previous 2 years specializing in 🔥React Js and other frontend technologies. 
