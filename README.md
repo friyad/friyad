@@ -8,30 +8,32 @@ I like to build the website error-free for the best user experience. I am passio
 ✌ Let's invent a new thought!
 
 <table border="0">
- <tr style="padding:10px">
+ <tr>
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
- <tr style="padding:10px">
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
-
-
-### Skills:
+ <tr>
+    <td>
 ✅ React.js<br/>
 ✅ JavaScript<br/>
 ✅ TypeScript<br/>
 ✅ Firebase<br/>
 ✅ Redux<br/>
 ✅ HTML5 \ CSS3 \ SCSS<br/>
-✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
-
+✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/></td>
+    <td>
 **Backend:**<br/>
 ✅ Node.js<br/>
 ✅ Node Express<br/>
-✅ Strapi <br/>
+✅ Strapi <br/></td>
+ </tr>
+</table>
+
+
+### Skills:
+
+
+
 
 **Database:**<br/>
 ✅ MongoDB<br/>
