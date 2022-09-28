@@ -60,7 +60,9 @@ I like to build the website error-free for the best user experience. I am passio
 
 <p align="center">
  <a padding="10px" href="https://github.com/friyad"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/riyadhossain2004/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://twitter.com/friyaddev"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='github' height='40'></a>
 </p>
 
