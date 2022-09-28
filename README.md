@@ -80,6 +80,10 @@ I like to build the website error-free for the best user experience. I am passio
     <a href='https://archiveprogram.github.com/'>
      <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='80' height='80'>
    </a> <br/>
+   
+       <a href='https://archiveprogram.github.com/'>
+     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='80' height='80'>
+   </a> <br/>
 
     <a href='https://docs.github.com/en/developers'>
      <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='80' height='80'>
