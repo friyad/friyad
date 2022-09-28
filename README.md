@@ -77,6 +77,9 @@ I like to build the website error-free for the best user experience. I am passio
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg' width='100%' height='auto'>
 
+<br/>
+<img src='https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg' width='100%' height='auto'>
+
 
 <br/><br/><br/><br/><br/>
 
