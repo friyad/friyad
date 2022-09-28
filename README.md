@@ -73,13 +73,12 @@ I like to build the website error-free for the best user experience. I am passio
  <a href="https://www.fiverr.com/friyaddev"> <img src='https://cdn-images-1.medium.com/max/1200/1*FfEOiku2EkgoQy_bf8UL6A.png' alt='Fiverr' height='40'></a>
 </p>
 
-<br/>
 
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg' width='100%' height='auto'>
 
 
-<br/>
+<br/><br/><br/><br/><br/>
 
 <table border="0px" align="center">
  <tr>
