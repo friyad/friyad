@@ -71,13 +71,13 @@ I like to build the website error-free for the best user experience. I am passio
 <table border="0" align="center" width="100%">
  <tr>
   
-  <td>
+  <td align="center">
      <br/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='auto'>
      <br/>
   </td>
   
-  <td>
+  <td align="center">
    <br/>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='120' height='120'></a> <br/><br/>
    
@@ -85,7 +85,7 @@ I like to build the website error-free for the best user experience. I am passio
    <br/>
   </td>
   
-  <td>
+  <td align="center">
    <br/>
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='120' height='120'></a><br/><br/>
    
