@@ -5,7 +5,7 @@ I have been working as a 🔥MERN stack developer for the previous 2 years speci
 I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems. My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
 
 ❤ Typescript lover<br/>
-✌Let's invent a new thought!
+✌ Let's invent a new thought!
 
 
 ### Skills:
@@ -17,15 +17,21 @@ I like to build the website error-free for the best user experience. I am passio
 ✅ HTML5 \ CSS3 \ SCSS<br/>
 ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
 
-**Backend:**
+**Backend:**<br/>
 ✅ Node.js<br/>
 ✅ Node Express<br/>
 ✅ Strapi <br/>
 
-**Database:**
+**Database:**<br/>
 ✅ MongoDB<br/>
 
 **Designing:**<br/>
+☑ Figma<br/>
+☑ Adobe XD<br/>
+☑ Adboe Photoshop<br/>
+☑ Adboe Illustrator<br/>
+☑ Canva<br/>
+☑ Sketch<br/>
 
 
 <br/>
