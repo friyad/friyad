@@ -3,10 +3,10 @@
 ## Welcome! I am Riyad Hossain 👋
 
 🔥 Well committed<br/>
-🔥 Dedicated<br/>
+🔥 Attentive<br/>
 🔥 Experienced<br/>
 
-<br/><br/>
+<br/>
 
 I have been working as a 🔥MERN stack developer for the previous 2 years specializing in 🔥React Js and other frontend technologies. 
 
@@ -68,9 +68,11 @@ I like to build the website error-free for the best user experience. I am passio
 <br/>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/riyadhossain2004/"> <img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='github' height='40'></a>
+ <a href="https://www.linkedin.com/in/riyadhossain2004/"> <img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='Linkdin' height='40'></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://twitter.com/friyaddev"> <img src='https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png' alt='github' height='40'></a>
+ <a href="https://twitter.com/friyaddev"> <img src='https://cdn.freebiesupply.com/logos/large/2x/twitter-3-logo-png-transparent.png' alt='Twitter' height='40'></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.fiverr.com/friyaddev"> <img src='https://cdn-images-1.medium.com/max/1200/1*FfEOiku2EkgoQy_bf8UL6A.png' alt='Fiverr' height='40'></a>
 </p>
 
 <br/>
