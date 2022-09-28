@@ -59,7 +59,7 @@ I like to build the website error-free for the best user experience. I am passio
 
 
 <p align="center">
- [<a href="https://github.com/friyad"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
+ <a href="https://github.com/friyad"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
 
 </p>
 
