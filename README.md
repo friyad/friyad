@@ -10,23 +10,23 @@ I like to build the website error-free for the best user experience. I am passio
 <br/>
 
 ### Skills:
-✅ React.js
-✅ JavaScript
-✅ TypeScript
-✅ Firebase
-✅ Redux
-✅ HTML5 \ CSS3 \ SCSS
+✅ React.js<br/>
+✅ JavaScript<br/>
+✅ TypeScript<br/>
+✅ Firebase<br/>
+✅ Redux<br/>
+✅ HTML5 \ CSS3 \ SCSS<br/>
 ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
 
 **Backend:**
-✅ Node.js
-✅ Node Express
+✅ Node.js<br/>
+✅ Node Express<br/>
 ✅ Strapi <br/>
 
 **Database:**
 ✅ MongoDB<br/>
 
-**Designing:**
+**Designing:**<br/>
 
 
 <br/>
