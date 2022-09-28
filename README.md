@@ -9,7 +9,7 @@ My main focus is on you, which is why I am well committed and always try to sati
 ❤ Typescript lover
 ✌Let's invent a new thought!
 
-
+<br/><br/><br/>
 Skills: REACT / JS / TS / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on **Sky Tyrants** 
