@@ -36,6 +36,7 @@ I like to build the website error-free for the best user experience. I am passio
        ☑ Adboe Illustrator<br/>
        ☑ Canva<br/>
        ☑ Sketch<br/>
+       ☑ PDF<br/>
   </td>  
  </tr>
 </table>
@@ -63,4 +64,3 @@ I like to build the website error-free for the best user experience. I am passio
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=friyad)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friyad)  
-
