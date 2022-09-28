@@ -121,6 +121,6 @@ I like to build the website error-free for the best user experience. I am passio
 
 <br/><br/>
 <p align="center">
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='400px'>
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact' width='100%' height='400px'>
  </p>
 
