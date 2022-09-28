@@ -94,7 +94,6 @@ I like to build the website error-free for the best user experience. I am passio
 <table border="0" align="center" width="100%">
  <tr>
   <td align="center">
-     <br/>
     <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='120' height='120'></a>
      <br/>
   </td>
