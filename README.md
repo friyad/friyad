@@ -2,14 +2,15 @@
 
 I have been working as a 🔥MERN stack developer for the previous 2 years specializing in 🔥React Js and other frontend technologies. 
 
-I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems.
-
-My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
+I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems. My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
 
 ❤ Typescript lover
 ✌Let's invent a new thought!
 
 <br/><br/><br/>
+
+
+
 Skills: REACT / JS / TS / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on **Sky Tyrants** 
