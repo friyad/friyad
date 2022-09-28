@@ -68,7 +68,7 @@ I like to build the website error-free for the best user experience. I am passio
 <br/>
 
 
-<table border="0" align="center">
+<table border="0" align="center" width="100%">
  <tr>
   
   <td>
