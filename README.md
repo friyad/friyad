@@ -91,27 +91,34 @@ I like to build the website error-free for the best user experience. I am passio
 <br/><br/>
 
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='100%'>
+
+
+
+
 <table border="0" align="center" width="100%">
  <tr>
   
   <td align="center">
      <br/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='100%'>
+    <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a> <br/><br/>
      <br/>
   </td>
   
   <td align="center">
    <br/>
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='100' height='100'></a> <br/><br/>
-   
+  
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='100' height='100'></a>
    <br/>
   </td>
   
+   <td align="center">
+   <br/>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='100' height='100'></a><br/>
+  </td>
+  
   <td align="center">
    <br/>
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='100' height='100'></a><br/><br/>
-   
 <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='100' height='100'></a> 
    <br/>
   </td>  
