@@ -92,3 +92,5 @@ I like to build the website error-free for the best user experience. I am passio
  </tr>
 </table>
 
+<br/>
+<img src='https://i.ibb.co/y5bGmh8/terminal.gif' width='100%' height='auto'>
