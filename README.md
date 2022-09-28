@@ -73,7 +73,7 @@ I like to build the website error-free for the best user experience. I am passio
   
   <td align="center">
      <br/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='auto'>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=friyad' width='100%' height='100%'>
      <br/>
   </td>
   
