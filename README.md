@@ -12,15 +12,17 @@ I like to build the website error-free for the best user experience. I am passio
 <table border="0">
  <tr>
     <td>
+     <br/>
         ✅ React.js<br/>
         ✅ JavaScript<br/>
         ✅ TypeScript<br/>
         ✅ Firebase<br/>
         ✅ Redux<br/>
         ✅ HTML5 \ CSS3 \ SCSS<br/>
-        ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
+        ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/><br/>
   </td>
   <td>
+   <br/>
        ✅ Node.js<br/>
        ✅ Node Express
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
@@ -29,8 +31,10 @@ I like to build the website error-free for the best user experience. I am passio
        ✅ Node Express<br/>
        ✅ Strapi <br/>
        ✅ MongoDB<br/>
+   <br/>
   </td>
   <td>
+   <br/>
        ☑ Figma<br/>
        ☑ Adobe XD<br/>
        ☑ Adboe Photoshop<br/>
@@ -39,6 +43,7 @@ I like to build the website error-free for the best user experience. I am passio
        ☑ Canva<br/>
        ☑ Sketch<br/>
        ☑ PDF<br/>
+   <br/>
   </td>  
  </tr>
 </table>
