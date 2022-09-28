@@ -2,9 +2,9 @@
 
 ## Welcome! I am Riyad Hossain 👋
 
-🔥 Well committed
-🔥 Dedicated
-🔥 Experienced
+🔥 Well committed<br/>
+🔥 Dedicated<br/>
+🔥 Experienced<br/>
 
 <br/><br/>
 
