@@ -7,24 +7,17 @@ I like to build the website error-free for the best user experience. I am passio
 ❤ Typescript lover<br/>
 ✌ Let's invent a new thought!
 
-<div style="display:flex;justify-content:start;">
-<div>
- ✅ React.js<br/>
-✅ JavaScript<br/>
-✅ TypeScript<br/>
-✅ Firebase<br/>
-✅ Redux<br/>
-✅ HTML5 \ CSS3 \ SCSS<br/>
-✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/>
-<div/>
-  
-<div>
-  **Backend:**<br/>
-✅ Node.js<br/>
-✅ Node Express<br/>
-✅ Strapi <br/>
-<div/>
-<div/>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 
 ### Skills:
 ✅ React.js<br/>
