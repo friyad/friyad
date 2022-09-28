@@ -93,8 +93,7 @@ I like to build the website error-free for the best user experience. I am passio
      <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='80' height='80'>
    </a><br/>
 
-    <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
-     <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='80' height='80'>
+    <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='80' height='80'>
    </a> 
   </td>  
  </tr>
