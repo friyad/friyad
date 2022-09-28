@@ -8,11 +8,11 @@ I like to build the website error-free for the best user experience. I am passio
 ✌ Let's invent a new thought!
 
 <table border="0">
- <tr>
+ <tr style="padding:10px">
     <td><b style="font-size:30px">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
- <tr>
+ <tr style="padding:10px">
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
  </tr>
