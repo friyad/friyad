@@ -76,6 +76,11 @@ I like to build the website error-free for the best user experience. I am passio
 <br/>
 
 
+<img src='https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg' width='100%' height='auto'>
+
+
+<br/>
+
 <table border="0px" align="center">
  <tr>
   <td>
