@@ -75,19 +75,13 @@ I like to build the website error-free for the best user experience. I am passio
 
 
 
-<table border="0" align="center">
+<table border="0px" align="center">
  <tr>
   <td>
-<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='120'>
+<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='auto'>
   </td>
   <td>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='120'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='auto'>
   </td>  
  </tr>
 </table>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=friyad)  
