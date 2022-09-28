@@ -22,7 +22,7 @@ I like to build the website error-free for the best user experience. I am passio
   </td>
   <td>
        ✅ Node.js<br/>
-       ✅ Node Express<br/>
+       ✅ Node Express >>>>>>>>>> <br/>
        ✅ Strapi <br/>
        ✅ Node.js<br/>
        ✅ Node Express<br/>
