@@ -1,3 +1,4 @@
+![Experienced frontend developer](https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg)
 ![Experienced frontend developer](https://pbs.twimg.com/profile_banners/1568602333617213441/1663051811/1500x500)
 
 ## Welcome! I am Riyad Hossain 👋
@@ -79,7 +80,7 @@ I like to build the website error-free for the best user experience. I am passio
 
 <img src='https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg' width='100%' height='auto'>
 
-<br/><br/>
+<br/>
 
 <table border="0px" align="center">
  <tr>
