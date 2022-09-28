@@ -50,10 +50,10 @@ I like to build the website error-free for the best user experience. I am passio
 
 
 <br/>
-- 🔭 I’m currently working on **Sky Tyrants** <br/>
-- 💬 Ask me about **Frontend Web Development** <br/>
-- 📫 How to reach me: **Please check my contacts bellow** <br/>
-- 😄 Pronouns: **Friyad** <br/>
+- 🔭 I’m currently working on Sky Tyrants <br/>
+- 💬 Ask me about Frontend Web Development <br/>
+- 📫 How to reach me: Please check my contacts bellow <br/>
+- 😄 Pronouns: Friyad <br/>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/friyad)
