@@ -33,7 +33,7 @@ I like to build the website error-free for the best user experience. I am passio
        ☑ Figma<br/>
        ☑ Adobe XD<br/>
        ☑ Adboe Photoshop<br/>
-       ☑ Adboe Illustrator<br/>
+       ☑ Adboe Illustrator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
        ☑ Canva<br/>
        ☑ Sketch<br/>
        ☑ PDF<br/>
