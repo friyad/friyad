@@ -21,10 +21,10 @@ I like to build the website error-free for the best user experience. I am passio
  <tr>
     <td>
      <br/>
-        ✅ React.js<br/>
+        ✅ React Js<br/>
+        ✅ Next Js<br/>
         ✅ JavaScript<br/>
         ✅ TypeScript<br/>
-        ✅ Firebase<br/>
         ✅ Redux<br/>
         ✅ HTML5 \ CSS3 \ SCSS<br/>
         ✅ Bootstrap \ Tailwind CSS \ Material UI \ Chakra UI <br/><br/>
@@ -35,7 +35,7 @@ I like to build the website error-free for the best user experience. I am passio
        ✅ Express.js
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
        ✅ Strapi <br/>
-       ✅ Node.js<br/>
+       ✅ Firebase<br/>
        ✅ Node Express<br/>
        ✅ Strapi <br/>
        ✅ MongoDB<br/>
