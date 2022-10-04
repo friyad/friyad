@@ -36,8 +36,8 @@ I like to build the website error-free for the best user experience. I am passio
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
        ✅ Strapi <br/>
        ✅ Firebase<br/>
-       ✅ Node Express<br/>
-       ✅ Strapi <br/>
+       ✅ API's<br/>
+       ✅ JWT <br/>
        ✅ MongoDB<br/>
    <br/>
   </td>
