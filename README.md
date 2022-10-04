@@ -32,7 +32,7 @@ I like to build the website error-free for the best user experience. I am passio
   <td>
    <br/>
        ✅ Node.js<br/>
-       ✅ Node Express
+       ✅ Express.js
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br/>
        ✅ Strapi <br/>
        ✅ Node.js<br/>
