@@ -1,5 +1,3 @@
-https://github.com/friyad/friyad/assets/86700138/3bef1348-b21e-4508-b3ef-fe386e6821ea
-
 ![Experienced frontend developer](https://pbs.twimg.com/profile_banners/1568602333617213441/1663051811/1500x500)
 
 ## Welcome! I am Friyad 👋
