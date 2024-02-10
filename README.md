@@ -5,17 +5,15 @@
 🔥 Well committed<br/>
 🔥 Attentive<br/>
 🔥 Experienced<br/>
+✌ Let's invent a new thought!<br/>
 
 I have been working as a 🔥MERN stack developer for the previous 2 years specializing in 🔥React Js and other frontend technologies. 
 
 I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems. My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
 
-✌ Let's invent a new thought!
-
 <br/>
 - 🔭 I’m currently working on a Math Puzzle Game <br/>
-- 💬 Ask me about Frontend Web Development <br/>
-- 📫 How to reach me: Please check my contacts bellow <br/>
+- 💬 Ask me about Frontend, Backend, and Microservices <br/>
 - 😄 Pronouns: Friyad <br/>
 
 <br/>
