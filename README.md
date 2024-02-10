@@ -13,7 +13,7 @@ I like to build the website error-free for the best user experience. I am passio
 ✌ Let's invent a new thought!
 
 <br/>
-- 🔭 I’m currently working on Sky Tyrants <br/>
+- 🔭 I’m currently working on a Math Puzzle Game <br/>
 - 💬 Ask me about Frontend Web Development <br/>
 - 📫 How to reach me: Please check my contacts bellow <br/>
 - 😄 Pronouns: Friyad <br/>
