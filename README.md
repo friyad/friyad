@@ -1,4 +1,4 @@
-![Experienced frontend developer](https://pbs.twimg.com/profile_banners/1568602333617213441/1663051811/1500x500)
+![Friyad](https://github.com/friyad/friyad/assets/86700138/03e44eb6-e798-4741-a95e-20d1b57c16b4)
 
 ## Welcome! I am Friyad 👋
 
