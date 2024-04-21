@@ -1,22 +1,32 @@
-![Friyad](https://github.com/friyad/friyad/assets/86700138/03e44eb6-e798-4741-a95e-20d1b57c16b4)
+![friyad-banner](https://github.com/friyad/friyad/assets/86700138/ea02a312-f5a8-4de1-b4a9-234a678ff317)
 
-## Welcome! I am Friyad 👋
 
-🔥 Well committed<br/>
-🔥 Attentive<br/>
-🔥 Experienced<br/>
-✌ Let's invent a new thought!<br/>
+## Riyad Hossain (Friyad)
 
-I have been working as a 🔥MERN stack developer for the previous 2 years specializing in 🔥React Js and other frontend technologies. 
+As a frontend web developer, I take websites to the next level. With over 2+ Years of experience in web development, I specialized in frontend technologies such as React, Next.js, Vue.js, Redux, and TypeScript. In this long journey, I have contributed to a Texas, US-based remote team, worked with over 20+ global clients including the US, Canada, Germany, and India, and completed 25+ frontend projects.
 
-I like to build the website error-free for the best user experience. I am passionate about using the latest technology. I pride myself on doing quality work and love to solve real-world problems. My main focus is on you, which is why I am well committed and always try to satisfy my clients with the work as well as maintain excellent communication. 
+My Impacts as a Frontend Developer:
+- As a frontend developer @ Nucleus Labs, I have contributed to 7+ projects, built an Emoji Math Puzzle game, helped to design 4 user interfaces, optimized application performance, and played my role with 7 team members.
+- As a freelance frontend web developer @ Fiverr, Upwork & LinkedIn, I have successfully delivered projects with budgets exceeding 2000+ USD individually, earned a Level 1 badge on Fiverr & progressing towards a top-rated badge on Upwork.
+- Collaborated with 20+ global clients, including the US, Canada, Germany and India.
+- Delivered 25+ freelance projects with 95% client satisfaction, and 100% 5-star reviews.
 
-<br/>
-- 🔭 I’m currently working on a Math Puzzle Game <br/>
-- 💬 Ask me about Frontend, Backend, and Microservices <br/>
-- 😄 Pronouns: Friyad <br/>
+## Skills
+- **Languages:** JavaScript, TypeScript
+- **Frameworks:** React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS
+- **Libraries/Tools:** AWS, Redux, TanStack Query, Prisma, NextAuth, Three.js, GSAP, Framer Motion, Strapi, GitHub,
+Firebase, Supabase, Figma, Adobe XD, Serverless, Cloudinary
+- **Databases:** MongoDB, DynamoDB, S3
 
-<br/>
+
+## Project Showcase
+
+https://github.com/friyad/friyad/assets/86700138/138d5b0d-3829-4a50-bcaa-f7c34be9f305
+
+
+
+
+<br/><br/>
 
 <table border="0px" align="center">
  <tr>
