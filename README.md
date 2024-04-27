@@ -1,4 +1,4 @@
-![Riyad Hossain (Friyad) Banner](https://github.com/friyad/friyad/assets/86700138/817d6965-c023-4268-9c59-610b6049762d)
+![Riyad Hossain (Friyad) Banner](https://github.com/friyad/friyad/assets/86700138/f92a4aa5-9747-4145-bc26-af9000965789)
 
 
 ## Riyad Hossain (Friyad)
