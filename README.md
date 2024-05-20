@@ -31,10 +31,16 @@ https://github.com/friyad/friyad/assets/86700138/138d5b0d-3829-4a50-bcaa-f7c34be
 <table border="0px" align="center">
  <tr>
   <td>
-<img src='https://github-readme-stats.vercel.app/api?username=friyad&show_icons=true&count_private=true' width='100%' height='auto'>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=friyad&theme=chartreuse-dark&show_icons=true" />
+    <img src='https://github-readme-stats.vercel.app/api?username=friyad&theme=default&show_icons=true' width='100%' height='auto'>
+</picture>
   </td>
   <td>
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=friyad' width='100%' height='auto'>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=friyad&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=friyad&theme=default" />
+</picture>
   </td>  
  </tr>
 </table>
