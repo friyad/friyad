@@ -3,19 +3,12 @@
 
 ## Riyad Hossain (Friyad)
 
-As a fullstack developer, I take websites to the next level. With over 2+ Years of experience in web development, I specialized in both frontend & backend technologies such as React, Next.js, Vue.js, Redux, Express.js, Node.js AWS and TypeScript. In this long journey, I have contributed to a Texas, US-based remote team, worked with over 20+ global clients including the US, Canada, Germany, and India, and completed 30+ projects.
-
-My Impacts as a Frontend Developer:
-- As a frontend developer @ Nucleus Labs, I have contributed to 7+ projects, built an Emoji Math Puzzle game, helped to design 4 user interfaces, optimized application performance, and played my role with 7 team members.
-- As a freelance fullstack web developer @ Fiverr, Upwork & LinkedIn, I have successfully delivered projects with budgets exceeding 2000+ USD individually, earned a Level 1 badge on Fiverr & progressing towards a top-rated badge on Upwork.
-- Collaborated with 20+ global clients, including the US, Canada, Germany and India.
-- Delivered 25+ freelance projects with 95% client satisfaction, and 100% 5-star reviews.
+As a fullstack web developer, I take applications to the next level. With over 2+ Years of experience in web development, I specialized in both frontend & backend technologies such as React, Next.js, Vue.js, Redux, Express.js, Node.js AWS and TypeScript. In this long journey, I have contributed to a Texas, US-based remote team, worked with over 20+ global clients.
 
 ## Skills
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js, Vue.js, Node.js, Express.js, Tailwind CSS
-- **Libraries/Tools:** AWS, Redux, TanStack Query, Prisma, NextAuth, Three.js, GSAP, Framer Motion, Strapi, GitHub,
-Firebase, Supabase, Figma, Adobe XD, Serverless, Cloudinary
+- **Languages:** JavaScript, TypeScript, C, C++
+- **Frameworks:** React.js, Next.js, Vue 2 & 3, Nuxt 3, Node.js, Express.js, Nest.js, Tailwind CSS
+- **Libraries/Tools:** AWS, Amplify,  Redux, Zustand, Docker, GraphQL, MySQL, TanStack Query, Pinia, NextAuth, Vuex, Three.js, GSAP, Framer Motion, Strapi, Git, GitHub, Firebase, Supabase, Figma, Cloudinary
 - **Databases:** MongoDB, DynamoDB, S3
 
 
